@@ -1,0 +1,34 @@
+.xyz{
+    text-align: center;
+}
+.abc{
+    text-align: right;
+}
+.def{
+    text-align: right;
+}
+.next{
+    font-size: 30px;
+    font-family:times;
+}
+table, th, td{
+    border: 1px solid black;
+}
+.all{
+    background-color:red;
+    color:white;
+}
+hr{
+    width: 50%;
+}
+.line{
+    width: 100px;
+    display:block;
+}
+.left {    
+    text-align: right;
+    float: right; 
+}
+.yu{
+    display: inline-block;
+}
